@@ -11,7 +11,7 @@ This Power BI project provides a comprehensive overview of inventory performance
 
 ## 🛠 Tools & Technologies
 
-- **Power BI Desktop**: Interactive dashboards and data storytelling  
+- **Power BI Desktop**: Interactive dashboards 
 - **DAX**: Custom measures for inventory KPIs, ABC-XYZ classification, reorder logic  
 
 ## 📊 Key Features
